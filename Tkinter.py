@@ -1,4 +1,4 @@
 import tkinter
 root = tkinter.Tk()
-# GUI code goes here.
+# GUI code here
 root.mainloop()
