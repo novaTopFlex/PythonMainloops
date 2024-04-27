@@ -8,4 +8,5 @@ def newWindow():
   rootN.mainloop()
 
 button = tkinter.Button(root, text="New Window", command=newWindow)
+button.pack()
 root.mainloop()
