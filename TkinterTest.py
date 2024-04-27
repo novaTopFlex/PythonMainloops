@@ -4,8 +4,8 @@ import tkinter
 root = tkinter.Tk()
 
 def newWindow():
-  rootN = tkinter.Tk()
-  rootN.mainloop()
+    rootN = tkinter.Tk()
+    rootN.mainloop()
 
 button = tkinter.Button(root, text="New Window", command=newWindow)
 button.pack()
